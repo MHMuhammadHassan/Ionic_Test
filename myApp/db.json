@@ -1,0 +1,34 @@
+{
+  "users": [
+    {
+      "id": "595e",
+      "userName": "hassan",
+      "userId": "hassan12",
+      "gender": "male",
+      "age": 18,
+      "department": "Software Eng",
+      "programmingLanguages": [
+        "Java"
+      ]
+    },
+    {
+      "id": "2661",
+      "userName": "hassan",
+      "userId": "hassan12",
+      "gender": "male",
+      "age": 18,
+      "department": "Software Eng",
+      "programmingLanguages": [
+        "Java"
+      ]
+    },
+    {
+      "id": "db01",
+      "userName": "",
+      "userId": "",
+      "gender": "",
+      "department": "Software Eng",
+      "programmingLanguages": []
+    }
+  ]
+}
